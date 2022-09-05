@@ -6,7 +6,9 @@ import archers.bows.Wooden;
 import util.Utility;
 
 import java.util.Random;
-// will made some changes here 
+// add some comment here
+// and changes will be here
+
 public class Demo {
     public static void main(String[] args) {
 
