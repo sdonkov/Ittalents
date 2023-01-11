@@ -1,2 +1,1 @@
-# Ittalents 
-ITTalents Tasks
+Tasks for ITTalents course.
