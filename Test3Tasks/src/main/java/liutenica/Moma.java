@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class Moma extends Brigadnik implements Runnable{
 
-//    private final static String[] names = {"Radka","Patka","Piratka","Nadka"};
+
     private String currentVegie;
     private int veggiesNumber;
     public static Baraka baraka;

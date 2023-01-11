@@ -15,7 +15,6 @@ public class Baba extends Brigadnik implements Runnable{
 
     @Override
     void doBrigadaTask() {
-//        System.out.println("Tuka li sum beeeeeeeeee====================");
         // взима по 5 продукта
         kitchen.zemiProdukit();
 //        kitchen.zemiChushki();
