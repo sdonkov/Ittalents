@@ -21,10 +21,8 @@ public class Demo {
             new Thread(new Moma("Penelopi"+i)).start();
             new Thread(new Momuk("Antonio"+i,40+i)).start();
             new Thread(new Baba("Cola"+i,85+i)).start();
-//                 // ЗАБРАВИХ СТАРТА НА БАБАТА....
 
         }
-//         // ЗАБРАВИХ СТАРТА НА БАБАТА....
 
     }
 }

@@ -106,7 +106,7 @@ private static Connection c = DBManager.INSTANCE.getConnection();
     private void mostProductiveBaba() throws SQLException {
         String sql = "SELECT baba_name FROM lutenica GROUP BY baba_name ORDER BY SUM(quantity) DESC LIMIT 1;";
         Statement st = c.createStatement();
-        // ps priema SQL
+        // ps needs SQL
         // st create statement and then st.execute priema sql
         // ps.execute
 //        PreparedStatement ps = c.prepareStatement(sql);

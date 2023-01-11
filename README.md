@@ -1,2 +1,1 @@
-# Ittalents 
-This is Ittalents survival training camp
+Tasks for ITTalents course.
